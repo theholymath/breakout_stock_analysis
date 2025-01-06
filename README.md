@@ -1,3 +1,6 @@
+# App: https://dubvax5c3s9dmrscgd9ggs.streamlit.app/
+Go play with it! 
+
 # Breakout Stocks
 A small quick project inspired by a job application project
 
