@@ -1,6 +1,8 @@
 # App: https://dubvax5c3s9dmrscgd9ggs.streamlit.app/
 Go play with it! 
 
+If you have an OpenAI API key you can get "AI Analsys" by checking the AI box in the sidebar. The AI analysis will be below the data. 
+
 # Breakout Stocks
 A small quick project inspired by a job application project
 
