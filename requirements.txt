@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+jinja2
+pandas
+yfinance
+python-multipart
+matplotlib 
+seaborn
+pytickersymbols
+tqdm
+pyyaml
