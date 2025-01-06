@@ -6,6 +6,18 @@ If you have an OpenAI API key you can get "AI Analsys" by checking the AI box in
 # Breakout Stocks
 A small quick project inspired by a job application project
 
+# Analysis
+I wanted to see if there is any value in this strategy. I looked at the NasDaq 100 for a year and the average returns were negative. That is, if you invest when a stock "breaks out" for the Nasdq 100 over the last year you would have lost around 1%. you can run `python breakout_analysis.py` to see the output. As of Januray 6, 2025, the output is 
+
+```bash
+Breakout Analysis Results:
+count_breakout_trades: 282
+average_return_%: -0.47
+median_return_%: -1.1
+max_return_%: 38.55
+min_return_%: -21.02
+```
+
 ---
 
 ## Project Description
